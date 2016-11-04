@@ -1,0 +1,12 @@
+{
+    "name": "mul14/blade-without-laravel",
+    "authors": [
+        {
+            "name": "Mulia Arifandi Nasution",
+            "email": "mul14.net@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "^5.3"
+    }
+}
